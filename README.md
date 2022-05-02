@@ -12,9 +12,9 @@ Above three methods determine the final election results, and based on these res
 
 ## Election Outcomes
 
--As we can conclude by looking at the above outcome that there were 369,711 total votes were cast in this congressional election. 
+- As we can conclude by looking at the above outcome that there were 369,711 total votes were cast in this congressional election. 
  
--The breakdown of the number of votes and the percentage of total votes for each county:
+- The breakdown of the number of votes and the percentage of total votes for each county:
  
  Jefferson: 10.5% of votes, for a total of 38,855 votes.
  
@@ -22,9 +22,9 @@ Above three methods determine the final election results, and based on these res
  
  Arapahoe: 6.7% of votes, for a total of 24,801 votes.
  
--Denver county had the largest number of 82.8% of votes, for a total of 306,055 votes.
+- Denver county had the largest number of 82.8% of votes, for a total of 306,055 votes.
  
--The number of votes and the percentage of the total votes each candidate received:
+- The number of votes and the percentage of the total votes each candidate received:
 
 Charles Casper Stockham: 23.0% of the vote, for a total of 85,213 votes.
 
