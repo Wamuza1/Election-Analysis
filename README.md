@@ -10,12 +10,29 @@ Above three methods determine the final election results, and based on these res
 <img width="321" alt="Screen Shot 2022-04-30 at 9 45 37 PM" src="https://user-images.githubusercontent.com/92646311/166129086-390adf19-328d-403f-925d-d133195853b3.png">
 
 
+## Election Outcomes
 
-o As we can conclude by looking at the above outcome that there were 369,711 total votes were cast in this congressional election.
-o	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-o	Denver county had the largest number of votes.
-o	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-o	Diana DeGette won the election, winning vote count were 272,892, and 73.8% of the total votes.
+-As we can conclude by looking at the above outcome that there were 369,711 total votes were cast in this congressional election. 
+ 
+-The breakdown of the number of votes and the percentage of total votes for each county:
+ 
+ Jefferson: 10.5% of votes, for a total of 38,855 votes.
+ 
+ Denver: 82.8% of votes, for a total of 306,055 votes.
+ 
+ Arapahoe: 6.7% of votes, for a total of 24,801 votes.
+ 
+-Denver county had the largest number of 82.8% of votes, for a total of 306,055 votes.
+ 
+-The number of votes and the percentage of the total votes each candidate received:
+
+Charles Casper Stockham: 23.0% of the vote, for a total of 85,213 votes.
+
+Diana DeGette: 73.8% of the vote, for a total of 272,892 votes.
+
+Raymon Anthony Doane: 3.1% of the vote, for a total of 11,606 votes.
+
+- Diana DeGette won the election, winning vote count were 272,892, and 73.8% of the total votes.
 
 
 
