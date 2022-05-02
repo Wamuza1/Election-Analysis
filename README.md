@@ -1,11 +1,12 @@
 # Election-Analysis
-# Overview of Election Audit: 
+Using Python to automate the election audit.
+# Overview of Election Audit: 
 
 In this project, we will be assisting Tom in an election audit of the tabulated results for U.S congressional precinct in Colorado. We are performing various tasks with reporting total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote. we need to read, process, and parse, or analyze, the data in the file. Three primary voting counting methods Tom and we will take into account:
 - Mail in Ballots
 - Punch cards
 - Direct recording electronic(DRE)
-Above three methods determine the final election results, and based on these results we will be generating a vote count report to certify the U.S congressional race.
+Above three methods determine the final election results, and based on these results we will be generating a vote count report to certify the U.S congressional race. After running the code on terminal the image is listed below.
 
 <img width="321" alt="Screen Shot 2022-04-30 at 9 45 37 PM" src="https://user-images.githubusercontent.com/92646311/166129086-390adf19-328d-403f-925d-d133195853b3.png">
 
@@ -33,6 +34,12 @@ Diana DeGette: 73.8% of the vote, for a total of 272,892 votes.
 Raymon Anthony Doane: 3.1% of the vote, for a total of 11,606 votes.
 
 - Diana DeGette won the election, winning vote count were 272,892, and 73.8% of the total votes.
+
+## Election-Audit Summary:
+
+- This script used to perform the Election Audit can also be used for different types of elections such as federal elections and state elections by changing the county to states.
+
+- The script can be used for multiple candidates and counties.
 
 
 
