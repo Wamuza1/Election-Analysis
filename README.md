@@ -40,7 +40,7 @@ Direct recording electronic(DRE) Above three methods determine the final electio
 
 - This script used to perform the Election Audit can also be used for different types of elections such as federal elections and state elections by changing the county to states.
 
-- The script can be used for multiple candidates and counties.
+- The script can be used for multiple candidates, counties, and cities. Suppose the data included characteristics, such as demographics or geography information. The script could be modified to have these characteristics. The analysis could be broken down even further for election performance.
 
 
 
