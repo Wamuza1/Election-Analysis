@@ -6,8 +6,9 @@ In this project, we will be assisting Tom in an election audit of the tabulated 
 
 - Mail-in Ballots
 - Punch cards
+- Direct recording electronic(DRE)
 
-Direct recording electronic(DRE) Above three methods determine the final election results. We will generate a vote count report to certify the U.S congressional race based on these results. After running the code on the terminal, the image is listed below.
+Above three methods determine the final election results. We will generate a vote count report to certify the U.S congressional race based on these results. After running the code on the terminal, the image is listed below.
 
 <img width="321" alt="Screen Shot 2022-04-30 at 9 45 37 PM" src="https://user-images.githubusercontent.com/92646311/166129086-390adf19-328d-403f-925d-d133195853b3.png">
 
