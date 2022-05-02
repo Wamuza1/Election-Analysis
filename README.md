@@ -2,11 +2,11 @@
 Using Python to automate the election audit.
 # Overview of Election Audit: 
 
-In this project, we will be assisting Tom in an election audit of the tabulated results for U.S congressional precinct in Colorado. We are performing various tasks with reporting total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote. we need to read, process, and parse, or analyze, the data in the file. Three primary voting counting methods Tom and we will take into account:
-- Mail in Ballots
+In this project, we will be assisting Tom in an election audit of the tabulated results for the U.S congressional precinct in Colorado. We perform various tasks with reporting the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote. We need to read, process, parse, or analyze, the data in the file. Three primary voting counting methods Tom and we will take into account:
+
+- Mail-in Ballots
 - Punch cards
-- Direct recording electronic(DRE)
-Above three methods determine the final election results, and based on these results we will be generating a vote count report to certify the U.S congressional race. After running the code on terminal the image is listed below.
+Direct recording electronic(DRE) Above three methods determine the final election results. We will generate a vote count report to certify the U.S congressional race based on these results. After running the code on the terminal, the image is listed below.
 
 <img width="321" alt="Screen Shot 2022-04-30 at 9 45 37 PM" src="https://user-images.githubusercontent.com/92646311/166129086-390adf19-328d-403f-925d-d133195853b3.png">
 
@@ -17,9 +17,9 @@ Above three methods determine the final election results, and based on these res
  
 - The breakdown of the number of votes and the percentage of total votes for each county:
  
- Jefferson: 10.5% of votes, for a total of 38,855 votes.
+  - Jefferson: 10.5% of votes, for a total of 38,855 votes.
  
- Denver: 82.8% of votes, for a total of 306,055 votes.
+  - Denver: 82.8% of votes, for a total of 306,055 votes.
  
  Arapahoe: 6.7% of votes, for a total of 24,801 votes.
  
